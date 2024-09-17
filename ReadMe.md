@@ -1,5 +1,4 @@
-# HackBio Stage-2 Task
-### Visualization, Differential Expression Analysis and Downstream Analysis of Glioma Transcriptomics Count Data
+# HackBio Stage-2 Task: Visualization, Differential Expression Analysis and Downstream Analysis of Glioma Transcriptomics Count Data
 
 ## Contents
 - **[Report](./Report.md)**: Detailed report of the analysis.
